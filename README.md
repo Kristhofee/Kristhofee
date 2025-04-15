@@ -3,4 +3,6 @@ Kristhofee - Desenvolvedor Front-end 👨‍💻
 👋 Sobre Mim
 Olá! Meu nome é Kristhofee e sou um desenvolvedor Front-end apaixonado por criar interfaces web incríveis e responsivas.
 🛠 Tecnologias & Habilidades
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+HTML5
+CSS3
+JavaScript
