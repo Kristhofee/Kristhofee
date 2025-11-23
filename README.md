@@ -3,6 +3,7 @@ Kristhofee - Desenvolvedor Front-end 👨‍💻
 
 ## 👋 Sobre Mim
 Olá, eu sou o Kristhofee!
+
 💻 Desenvolvedor Front-end buscando novos estudos para me tonar Full-Stack
 
 Gosto criar interfaces digitais, focando em experiências responsivas e acessíveis. Atualmente estou expandindo meu conhecimento em tecnologias back-end como Node.js e bancos de dados para me tornar um desenvolvedor Full-Stack completo.
